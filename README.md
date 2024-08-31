@@ -1,6 +1,10 @@
 # IT499
 PDF Query AI Bot using Google Geminiand Streamlit
 
+App URL: https://special-guide-9g7555j94xqh9v9g-8501.app.github.dev/
+
+Codespace URL: https://special-guide-9g7555j94xqh9v9g.github.dev/
+
 Make sure to use the terminal to run these commands to install the necessary packages:
 
 1) pip install PyPDF2
